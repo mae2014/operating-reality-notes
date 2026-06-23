@@ -25,15 +25,16 @@ The question is whether the available evidence remains reliable enough to suppor
 
 ## Repository map
 
-| File                                           | Purpose                                                        |
-| ---------------------------------------------- | -------------------------------------------------------------- |
-| [`docs/definitions.md`](docs/definitions.md)   | Core definitions used across these notes.                      |
-| [`docs/principles.md`](docs/principles.md)     | Guiding principles for operating reality and evidence quality. |
-| [`docs/reading-list.md`](docs/reading-list.md) | Selective reading and reference scaffold.                      |
-| [`STATUS.md`](STATUS.md)                       | Repository scope, limits, and development stage.               |
-| [`SECURITY.md`](SECURITY.md)                   | Security and sensitive-data boundaries.                        |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md)           | Contribution and editorial guidelines.                         |
-| [`CHANGELOG.md`](CHANGELOG.md)                 | Public update history.                                         |
+| File                                                         | Purpose                                                                |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| [`docs/definitions.md`](docs/definitions.md)                 | Core definitions used across these notes.                              |
+| [`docs/principles.md`](docs/principles.md)                   | Guiding principles for operating reality and evidence quality.         |
+| [`docs/decision-boundaries.md`](docs/decision-boundaries.md) | Notes on when evidence supports action, caution, escalation, or delay. |
+| [`docs/reading-list.md`](docs/reading-list.md)               | Selective reading and reference scaffold.                              |
+| [`STATUS.md`](STATUS.md)                                     | Repository scope, limits, and development stage.                       |
+| [`SECURITY.md`](SECURITY.md)                                 | Security and sensitive-data boundaries.                                |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md)                         | Contribution and editorial guidelines.                                 |
+| [`CHANGELOG.md`](CHANGELOG.md)                               | Public update history.                                                 |
 
 ## Principles
 
